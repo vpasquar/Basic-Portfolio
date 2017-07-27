@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  
+ }
+
+#topBanner {
+  width:960px;
+  height:100px;
+  padding: 5px;
+  margin: 0;
+  background-color:white;
+}
+
+#nameBox {
+  position: absolute;
+  height:75px;
+  left: 325px;
+  background-color:#4aaaa5;
+  z-index:2;
+}
+
+#aboutButton {
+  position:absolute;
+  top:15px;
+  right:515px;
+}
+
+#portfolioButton {
+  top:15px;
+  position:absolute;
+  right:410px;
+}
+
+#contactButton {
+  top:15px;
+  position:absolute;
+  right:305px;
+}
+
+.wrapper{
+  width:960px;
+  padding: 5px;
+  top-border:2px;  
+  bottom-border: 2px;
+  border-color:black;
+  margin:0 auto;
+}
+
+#aboutMe {
+  top-border:1px;
+  border-color:black;
+  width:650px;
+  padding:10px;
+  margin:10px;
+  float:left;
+  background-color:white;
+}
+
+#contact {
+  top-border:1px;
+  border-color:black;
+  width:630px;
+  padding:10px;
+  margin:10px;
+  float:left;
+  background-color:white;
+}
+
+#portfolio {
+  top-border:1px;
+  border-color:black;
+  width:650px;
+  padding:10px;
+  margin:10px;
+  float:left;
+  background-color:white;
+}
+
+#sidebar {
+  width:270px;
+  float:left;
+  background-color:white;
+}
+
+h1 {
+  color:#4aaaa5;
+  padding-bottom:5px;
+}
+
+h2 {
+ color:#4aaaa5;
+ font-size:24px
+}
+
+#profileImg {
+  float:left;
+  padding:5px;
+  margin:5px;
+
+}
+
+#footer {
+  clear:both;
+  text-align:center;
+  color:white;
+  background-color:#666666;
+  margin:0 auto;
+  border-style:sold;
+  border-top:2px;
+  border-color:#666666;
+}
+
+#content1 {
+ 
+}
+
+p {
+  
+}
+
+
