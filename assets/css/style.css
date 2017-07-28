@@ -19,6 +19,7 @@ html, body {
 
 #nameBox {
   position: absolute;
+  font-size:24px;
   height:100px;
   padding:5px;
   left: 325px;
@@ -27,18 +28,21 @@ html, body {
 }
 
 #aboutButton {
+  font-size:16px;
   position:absolute;
   top:15px;
   right:515px;
 }
 
 #portfolioButton {
+  font-size:16px;
   top:15px;
   position:absolute;
   right:410px;
 }
 
 #contactButton {
+  font-size:16px;
   top:15px;
   position:absolute;
   right:305px;
@@ -56,6 +60,7 @@ html, body {
 }
 
 #aboutMe {
+  font-size:14px;
   margin-left:300px;
   width:650px;
   float:left;
