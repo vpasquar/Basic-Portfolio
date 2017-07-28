@@ -96,6 +96,7 @@ html, body {
 h1, h2 {
   font-family: 'Georgia', Times, Times New Roman, serif;
 }
+
 h1 {
   color:#4aaaa5;
   padding-bottom:5px;
@@ -109,9 +110,9 @@ h2 {
 }
 
 #profimage {
+  margin-right:8px;
+  padding:10px;
   float:left;
-  padding:5px;
-  margin:5px;
   height:175px;
   width:175px;
 }
@@ -132,14 +133,13 @@ form {
   background-color:black;
   margin:0 auto;
   overflow:hidden;
+  border-top: 4px solid #4aaaa5;
 }
 
 #content1 {
+  border-top: 1px solid black;
+  padding:10px;
  
-}
-
-p {
-  
 }
 
 #sbImg {
