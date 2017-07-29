@@ -55,7 +55,8 @@ html, body {
   height:100%;
   padding:10px;
   padding-bottom:0px;
-  border-color:black;
+  border: 3px solid;
+  border-color:#4aaaa5;
   margin:0 auto;
 }
 
